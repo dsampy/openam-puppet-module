@@ -1,0 +1,3 @@
+class openam::config {
+
+}
