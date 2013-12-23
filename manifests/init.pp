@@ -1,3 +1,3 @@
 class openam {
-  include openam::install, openam::config
+  include openam::params, openam::install, openam::config
 }
